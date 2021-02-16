@@ -3,9 +3,9 @@ local cfg = {}
 -- ONLY EDIT LINES BETWEEN THE HASHES
 -- ##################################
 
-cfg.cad_url = "https://yourcad.cadvanced.app" -- The full URL of your CAD (WITHOUT THE / AT THE END)
-cfg.homepage = "WELCOME TO MY MDT!" -- Text to be displayed on the front page of the MDT
-cfg.api_token = "" -- Your CAD's API token, see Admin > Preferences in the CAD
+cfg.cad_url = "https://bzupbmza.cadvanced.app" -- The full URL of your CAD (WITHOUT THE / AT THE END)
+cfg.homepage = "WELCOME TO OUR NEW MDT!" -- Text to be displayed on the front page of the MDT
+cfg.api_token = "12061994" -- Your CAD's API token, see Admin > Preferences in the CAD
                    -- THE TOKEN CAN BE ANYTHING, as long as you enter the same value here
                    -- and in Admin > Preferences in the CAD
 cfg.enable_whitelist = false -- Only allow players with the "Player" role to join
